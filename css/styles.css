@@ -13,20 +13,20 @@ body, html {
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-    background-image: url('../images/img1.jpeg');
+    background-image: url('../images/me.jpeg');
     min-height: 100%;
 }
 
 /* Second image (Portfolio) */
 .bgimg-2 {
     background-image: url('../images/phone.jpg');
-    min-height: 400px;
+    min-height: 500px;
 }
 
 /* Third image (Contact) */
 .bgimg-3 {
     background-image: url('../images/road2.jpg');
-    min-height: 400px;
+    min-height: 500px;
 }
 
 .w3-wide {letter-spacing: 10px;}
